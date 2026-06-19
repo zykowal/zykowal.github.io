@@ -1,12 +1,11 @@
 ---
-title: "ZYKowal's Blog"
-description: "ZYKowal 的技术博客"
+title: "Wishing you all the best in the days ahead."
+description: "ZyKowal's Blog"
 ---
 
-👋 你好！我是 **ZYKowal**，一名后端开发者。
+👋 Hello! I'm **ZyKowal**，just for fun.
 
-我热衷于 **Go**、**云原生技术** 和 **开源**，这里是我的技术博客，记录学习笔记与项目实践。
+I am passionate about **Go**、**Cloud Native** and **Open Source**. This is my tech blog, where I record learning notes and project practices.
 
-- 💻 主力语言：Go / Python / TypeScript
-- ☁️ 关注领域：Kubernetes、微服务、分布式系统
-- 📍 现居：上海
+- 💻 Language: Go / Python / TypeScript / Rust
+- 📍 Location: China

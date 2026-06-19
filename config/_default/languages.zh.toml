@@ -12,7 +12,7 @@ title = "ZyKowal's Blog"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "ZyKowal 的技术博客"
-  copyright = "© 2006 ZYKowal"
+  copyright = "© { year } ZyKowal"
 
 [params.author]
   name = "ZyKowal"
