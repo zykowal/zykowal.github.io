@@ -52,6 +52,12 @@
   pageRef = "tags"
   weight = 30
 
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/zykowal"
+  weight = 200
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
