@@ -19,9 +19,9 @@ title = "ZyKowal's Blog"
 #   email = "youremail@example.com"
   image = "https://avatars.githubusercontent.com/u/68947448?v=4"
   imageQuality = 96
-  headline = "A person driven by interest"
+  headline = "Do something just for fun"
   bio = "Open Source / Go / Rust / Python / Typescript / Cloud Native"
-  links = [
+  # links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -35,7 +35,7 @@ title = "ZyKowal's Blog"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/zykowal" },
+    # { github = "https://github.com/zykowal" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -76,4 +76,4 @@ title = "ZyKowal's Blog"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-  ]
+  # ]
