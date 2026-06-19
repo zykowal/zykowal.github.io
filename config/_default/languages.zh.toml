@@ -14,13 +14,13 @@ title = "ZYKowal's Blog"
   description = "ZYKowal 的技术博客"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+[params.author]
+  name = "ZYKowal"
+  # email = "your@email.com"
+  # image = "img/avatar.png"
+  imageQuality = 96
+  headline = "后端开发者"
+  bio = "Go / Cloud Native / Open Source"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
